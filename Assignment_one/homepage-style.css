@@ -1,0 +1,71 @@
+body {
+	font-family: sans-serif;
+	background-image:url("Backgroundtwo.jpg");
+
+}
+p {
+	text-align:center;
+}
+h1 {
+	text-align:center;
+	color:#23a01c;
+}
+h3 {
+	text-align:center;
+}
+table {
+	text-align:center;
+	margin:auto;
+	border: 0px;
+	width:85%;
+}
+th {
+	color:white;
+}
+a:hover {
+	background-color: yellow;
+}
+span {
+	color: red;
+	font-weight: bold;
+}
+.quote {
+	font-style: italic;
+}
+.line {
+	border-bottom: solid green 1px;
+}
+.greenRow {
+	background-color:#23a01c;
+}
+.whiteRow {
+	background-color: white;
+}
+.clear {
+	margin-left: 100px;
+}
+.clear:after {
+	content:"";
+	clear:both;
+	display:table;
+}
+.floatLeft{
+	float:left;
+}
+#Teams {
+	margin: auto;
+	padding:0px 22px;
+	
+}
+#History {
+	border-right:solid green 1px;
+	border-left:solid green 1px;
+	padding-right: 20px;
+}
+#Interest {
+	padding-right:20px;
+	right:20px;
+}
+.validation {
+	float:left;
+}
